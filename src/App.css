@@ -1,0 +1,34 @@
+.App {
+  text-align: center;
+}
+
+.btn {
+  margin-right: 0.5em;
+}
+
+.card {
+  border: 1px solid #ced4da;
+  border-radius: 0.4em;
+  margin-bottom: 1.0em;
+}
+
+.card-title {
+  font-size: 1.2em;
+  white-space: nowrap;
+}
+
+.card-img {
+  height: 200px;
+}
+
+.itemButton {
+  margin-bottom: 0;
+}
+
+.wrapper {
+  margin-top: 15px;
+}
+.list-group-item {
+  display: inline-flex;
+  /* flex-direction: row; */
+}
