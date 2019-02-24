@@ -3,4 +3,4 @@
 - Run `npm i` in command line
 - Run `npm start` in command line
 
-https://sburnt-car-catalog.netlify.com/
+[Посмотреть работу](https://sburnt-car-catalog.netlify.com/)
